@@ -3,12 +3,7 @@ author:
   name: Abiu
   email: 844875004@qq.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  今天青城山脚很冷
-  我说的是青城山脚，不是我的脚
-  虽然我的脚也冷
-  但是二者是有差别的
-  我的脚冷就只有我的脚冷
-  但是青城山脚冷的话，那我浑身都冷
+  滴滴啵唧，滴滴啵啵耶！
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
@@ -19,8 +14,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    # twitter: jekyllrb
+    github:  iamabiu
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
